@@ -1,8 +1,9 @@
 # Zira
 
-It is a basic example of AI assistent which can here you and can perform google searches.
-and also can perform some specified tasks.
+It is a basic example of AI assistent which can hear user and can process his/her commonds  and can perform google searches.
+and also it can perform some specified tasks.
 which are in-built in this.
 
 TECH USED : Python
+
 LEVEL : Beginner
